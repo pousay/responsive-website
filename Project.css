@@ -1,0 +1,64 @@
+a {
+    text-decoration: none;
+    color: rgb(29, 29, 29);
+}
+
+a:hover {
+    color: rgb(29, 29, 29);
+}
+
+.margin-top {
+    margin-top: 20px;
+    padding: 5px;
+}
+
+
+.special-purple-color {
+    background-color: #850aed;
+}
+
+.special-purple-color:hover {
+    background-color: #6b10b6;
+}
+
+.highlight {
+    background-color: transparent;
+    color: rgb(235, 205, 7);
+}
+
+.large-font {
+    font-size: 42px;
+}
+
+.special-purple-color-text {
+    color: #6b10b6;
+}
+
+.green-highlight {
+    color: rgb(7, 123, 7);
+    background-color: transparent;
+}
+
+.img-width {
+    width: 360px;
+}
+
+.fs-8 {
+    font-size: 12px;
+}
+
+.fs-7 {
+    font-size: 14px;
+}
+
+.theshadow {
+    box-shadow: 0px 0px 10px 1px grey;
+}
+
+.contact-input {
+    border: 10px solid red;
+}
+
+.border-purple {
+    border-left: 2px solid #850aed;
+}
